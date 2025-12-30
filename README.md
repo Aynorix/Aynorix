@@ -1,5 +1,6 @@
 ## Hi there 👋
 I'm Ayaan Mathur, a software engineer based in India.
+On my journey into Data Science, with a growing interest in Artificial Intelligence and Machine Learning; driven by curiosity and a habit of turning questions into experiments 😉
 
 <!--
 **Aynorix/Aynorix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
